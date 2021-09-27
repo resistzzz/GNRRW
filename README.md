@@ -1,4 +1,4 @@
-##GNRRW
+## GNRRW
 #paper data and code
 This is the code for the ICDM 2021 Paper: Graph Neighborhood Routing and Random Walk
 for Session-based Recommendation. 
